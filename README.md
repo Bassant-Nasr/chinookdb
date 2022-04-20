@@ -1,4 +1,4 @@
 # udacity-advanced
 graduation projects of Udacity advanced track:
-Sql database codes for answering "Queries.txt" certain questions.
+Sql database queries for answering certain questions about Chinook databse of music store
 
