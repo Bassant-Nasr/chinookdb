@@ -1,9 +1,9 @@
 # udacity-chinookdb
 graduation project of Udacity advanced track:
 SQL database queries for answering certain questions about Chinook databse of music store
-    ###Q1 - Which support representative agent has sold the least###
-    ###Q2 - What are the top five albums purchased, and in which country they are popular###
-    ###Q3 - Which Jazz band has released songs the most in USA###
-    ###Q4 - Who are the best three customers###
-    ###Q5 - Which year has the highest volume of Alternative & Punk music purchases###
-Pdf file supported presents all detailed conclusion of the output
+    #Q1 - Which support representative agent has sold the least#
+    #Q2 - What are the top five albums purchased, and in which country they are popular#
+    #Q3 - Which Jazz band has released songs the most in USA#
+    #Q4 - Who are the best three customers#
+    #Q5 - Which year has the highest volume of Alternative & Punk music purchases#
+Pdf file supported with visualization presents all detailed conclusion of the outputs to help you intrepret them.
